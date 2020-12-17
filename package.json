@@ -1,0 +1,13 @@
+{
+  "name": "react-wp-tachyons",
+  "version": "0.1.0",
+  "description": "Decoupled Tachyons Build for react-build-wp boilerplate",
+  "repository": "https://github.com/jonshipman/react-wp-tachyons",
+  "author": "Jon Shipman",
+  "license": "Apache",
+  "private": false,
+  "style": "scss/style.scss",
+  "dependencies": {
+    "tachyons-sass": "^4.9.5"
+  }
+}
